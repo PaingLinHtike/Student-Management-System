@@ -1,6 +1,4 @@
-Here’s a clean, professional, Gen-Z-friendly **README.md** for your Django Student Management System project. It’s formatted to look great on GitHub and fully explains your app’s features, setup, and usage.
 
----
 
 # 🎓 Student Management System (Django)
 
